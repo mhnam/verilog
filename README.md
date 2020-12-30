@@ -4,7 +4,7 @@ This repository contains codes and reports written for Digital Design class in F
 
 ``Please note that reports were not reviewed by anyone, so please cite reports at your own risk.``
 
-## Contents Covered
+## Contents
 Class covered following topics:
 - week 3: AND, OR gates
 - week 4: NAND, NOR, XOR gates
